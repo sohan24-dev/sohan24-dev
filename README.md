@@ -11,20 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=50&lines=MERN+Stack+Developer;React.js+Specialist;Next.js+Developer;Building+Scalable+Web+Apps;Open+Source+Enthusiast" alt="Typing SVG" />
   </h3>
 
-  <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="mailto:your-email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sohan_57087) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rizbeahamedsohan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-dev25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohan.explorer@gmail.com) 
 
 </div>
 
@@ -67,10 +54,9 @@ A results-driven **Frontend & Fullstack Developer** based in Bangladesh, special
 ## Get in Touch:
 
 LinkedIn: https://linkedin.com/in/sohan24-dev <br/>
-GitHub: https://github.com/sohan24-dev <br/>
-Facebook: https://facebook.com/sohan24-dev <br/>
+Facebook: https://facebook.com/rizbeahamedsohan <br/>
 Discord: https://discord.com/users/sohan24-dev <br/>
-Gmail: sohan24-dev@gmail.com
+Gmail: sohan.explorer@gmail.com
 
 
 
