@@ -53,9 +53,9 @@ A results-driven **Frontend & Fullstack Developer** based in Bangladesh, special
 
 ## Get in Touch:
 
-LinkedIn: https://linkedin.com/in/sohan24-dev <br/>
+LinkedIn: https://linkedin.com/in/sohan-dev25 <br/>
 Facebook: https://facebook.com/rizbeahamedsohan <br/>
-Discord: https://discord.com/users/sohan24-dev <br/>
+Discord: https://discord.gg/sohan_57087 <br/>
 Gmail: sohan.explorer@gmail.com
 
 
